@@ -1,4 +1,4 @@
-# PPixel Art Canvas
+# Pixel Art Canvas
 
 A fun pixel art canvas with a color wheel and a clear button.
 
